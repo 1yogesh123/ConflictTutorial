@@ -7,6 +7,8 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.0.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
+                  //changes made by us
+
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>project4</artifactId>
